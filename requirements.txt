@@ -2,7 +2,6 @@
 watchdog
 # Process & system info
 psutil
-netifaces
 # Env management
 python-dotenv
 # Entropy calculations
